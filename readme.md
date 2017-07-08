@@ -70,7 +70,8 @@
 ```
 theological => theoooticals 
 projection => procections
-calculations => callulations 
+calculation => callulations 
+reliability => relibiilities 
 ```
 
 ​	Most of them make a wrong letter in the word, and nearly all of the wrong results still end with "s" or "es". I think that's because I didn't take the Decoder's output at each time step as the input of the next time step, that decrease the influence of the output's context to Decoder. So there are still something to do for improvement.
